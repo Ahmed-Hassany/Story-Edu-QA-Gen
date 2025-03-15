@@ -1,0 +1,174 @@
+{
+  "event_summaries": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "story_section": "\" do you see the castle yonder ? \" said the king . their eyes grew as large as saucers and they looked . yes , indeed , they saw the castle . \" who has dared to build such a castle on my ground ? \" the courtiers bowed and scraped , but did not know . so the king sent for his soldiers . they came tramping in and presented arms . \" send out all my soldiers and horsemen , \" said the king , \" tear down the castle instantly , hang whoever built it , and see to this at once . \"",
+        "reasoning": "Not supplied for this particular example.",
+        "event_summaries": [
+          "The king noticed a castle built on his ground and was furious.",
+          "The king ordered his soldiers to tear down the castle and hang whoever built it."
+        ]
+      },
+      {
+        "story_section": "\" have you seen my snakes , per gynt ? \" asked tron valfjeldet -- for that was what he called the wolves . \" yes , and now you shall travel the same road your snakes have gone ! \" cried per gynt , and shot him . then he made an end of aabakken with the butt - end of his firelock ; but eldforkungen had fled through the chimney . after per gynt had done this , he accompanied the dairy - maids back to their village , for they did not venture to stay in the hut any longer . when christmas came , per gynt once more got under way . he had heard of a farmstead at dovre , where so many trolls were accustomed to congregate on christmas eve . the people who lived there had to flee , and find places to stay at other farms . this farmstead per gynt decided to hunt up . he thought he would like to see these trolls . he put on torn clothing , and took with him a tame bear which belonged to him , together with an awl , some pitch and some wire . when he had reached the farmstead , he went into the house and asked for shelter .",
+        "event_summaries": [
+          "Tron Valfjeldet called the wolves snakes.",
+          "Many trolls congregated at a farmstead at Dovre on Christmas Eve.",
+          "Per Gynt wanted to go to the farmstead at Dovre to attack the trolls."
+        ]
+      },
+      {
+        "story_section": "\" alas , what have you done ! \" cried he . \" now you have made both of us unhappy . if you had only held out until the end of the year , i would have been delivered . i have a step - mother who has cast a spell on me , so that by day i am a bear , and at night a human being . but now all is over between us , and i must return to my step - mother . she lives in a castle that is east of the sun and west of the moon , where there is a princess with a nose three yards long , whom i must now marry . \" the maiden wept and wailed to no avail , for the prince said he must journey away . then she asked him whether she might not go with him . no , said he , that could not be . \" but can you not at least tell me the road , so that i can search for you . for surely that will be permitted me ? \" \" yes , that you may do , \" said he . \" but there is no road that leads there . the castle lies east of the sun and west of the moon , and neither now nor at any other time will you find the road to it ! \"",
+        "event_summaries": [
+          "His step-mother cast the spell on the bear.",
+          "The step-mother lived east of the sun and west of the moon.",
+          "The prince must marry a princess with a nose three yards long because of the maiden.",
+          "The maiden would not find the road to the castle because there is no road that leads there."
+        ]
+      },
+      {
+        "story_section": "\" and who are you ? \" asked per gynt , for he noticed that it moved . \" o , i am the crooked one , \" was the answer . and now per gynt knew as much as he had before . so he went along its length , \" for sooner or later i will come to the end of it , \" thought he . as he went along he again struck against something , and when he felt it , it was again something cold , and large and slippery . \" and who are you ? \" asked per gynt . \" i am the crooked one , \" was again the answer .",
+        "event_summaries": [
+          "Per Gynt asked who was in his hand because he noticed that it moved.",
+          "The crooked one was cold, large, and slippery."
+        ]
+      },
+      {
+        "story_section": "\" how delicious that peach must be ! \" she said to herself . \" i must certainly get it and take it home to my old man . \" she stretched out her arm to try and get it , but it was quite out of her reach . she looked about for a stick , but there was not one to be seen , and if she went to look for one she would lose the peach .",
+        "event_summaries": [
+          "The woman was unable to get the peach because it was quite out of her reach.",
+          "The woman tried to get the peach by stretching out her arm."
+        ]
+      },
+      {
+        "story_section": "\" and you will kill hundreds more , \" interposed strong desire , in the most insinuating manner imaginable . \" just so , my dear , \" red head replied , with a great leer ; \" thousands . there will be no end to my delicious murders . i love dearly to kill people . i would like to kill you if you were not my wife . \" \" there , there , \" said strong desire , with the coaxing air of a little coquette , \" go to sleep ; that 's a good red head . \" no other subject of conversation occurring to the chief , now that he had exhausted the delightful topic of wholesale murder , he straightway fell into a deep sleep . the chance so anxiously sought for had come ; and strong desire , with a smiling eye , drawing his blade of grass with lightning swiftness once across the neck of the red head , severed the huge and wicked head from the body . in a moment , stripping off his woman 's dress , underneath which he had all along worn his male attire , strong desire seized the bleeding trophy , plunged into the lake , and swam safely over to the main shore . he had scarcely reached it , when , looking back , he saw amid the darkness the torches of persons come out in search of the new married couple . he listened until they had found the headless body , and he heard their piercing shrieks of rage and sorrow as he took his way to the lodge of his kind adviser .",
+        "event_summaries": [
+          "Strong Desire saw the torches of persons coming out in search of the newly married couple when he looked back.",
+          "Red Head did not want to kill Strong Desire because Strong Desire was beautiful."
+        ]
+      },
+      {
+        "story_section": "\" do you not think that i shall save him ? \" said she . \" our lord will not take him from me ! \" and the old man -- it was death himself -- he nodded so strangely , it could just as well signify yes as no . and the mother looked down in her lap , and the tears ran down over her cheeks . her head became so heavy -- she had not closed her eyes for three days and nights . now she slept , but only for a minute , when she started up and trembled with cold . \" what is that ? \" said she , and looked on all sides . but the old man was gone , and her little child was gone -- he had taken it with him . the old clock in the corner burred , and burred , the great leaden weight ran down to the floor , bump ! and then the clock also stood still . but the poor mother ran out of the house and cried aloud for her child . out there , in the midst of the snow , there sat a woman in long , black clothes . she said , \" death has been in thy chamber , and i saw him hasten away with thy little child . he goes faster than the wind , and he never brings back what he takes ! \"",
+        "event_summaries": [
+          "The woman ran out of the house because the old man took her child.",
+          "A woman in long, black clothes sat outside in the snow."
+        ]
+      },
+      {
+        "story_section": "\" come hither , come hither , \" they shouted ; \" come tread a measure with us , and afterwards we will drink to thee out of our monarch 's loving cup . \" and , strange as it may seem , the spell that had been cast over the young earl was so powerful that , in spite of his fear , he felt that he must obey the eldrich summons , and he threw his bridle on his horse 's neck and prepared to join them . but just then an old and grizzled goblin stepped out from among his companions and approached him . apparently he dare not leave the charmed circle , for he stopped at the edge of it ; then , stooping down and pretending to pick up something , he whispered in a hoarse whisper : \" i know not whom thou art , nor from whence thou comest , sir knight , but if thou lovest thy life , see to it that thou comest not within this ring , nor joinest with us in our feast . else wilt thou be for ever undone . \"",
+        "event_summaries": [
+          "An old and grizzled goblin stepped out from among his companions and approached him.",
+          "The old and grizzled goblin stopped at the edge and, stooping down to pretend to pick up something, whispered in a hoarse voice to Earl Gregory.",
+          "The old and grizzled goblin talked to Earl Gregory to warn him to leave."
+        ]
+      },
+      {
+        "story_section": "\" his sentence has already been spoken , \" answered the other . \" this man pretended to be conscientious , and traitorously brought about the death of his friend . of all sins there is no greater sin than this . as a punishment he will be sent forth again into the world as an animal . \" then he added : \" when you reach home you must take constant care of your health . fate has allowed you seventy - eight years of mortal life . when your time is up i will come to fetch you myself . then i will see that you obtain a place as constable in the nether world , where we can always be together . \" when he had said this , he disappeared .",
+        "event_summaries": [
+          "Wang committed a great sin by pretending to be conscientious and traitorously causing the death of his friend.",
+          "The spirit wanted to obtain a place for Dung as constable in the nether world after his mortal life ended."
+        ]
+      },
+      {
+        "story_section": "\" here is my smeller , so take a good look ! \" said he . \" here is a taste of the soup that i cook ! \" said per gynt , and he poured the whole kettleful of soup over his nose . the troll rushed off lamenting loudly . from all the heights around came laughter and derision and calls of : \" gyri soupsmeller , gyri soupsmeller ! \" thereupon all was quiet for a time . before very long the noise and tumult outside began again . per gynt looked out , and saw a wagon drawn by bears . the great troll was loaded upon it , and off they went with him up the fjoll . suddenly a pail of water was poured down through the chimney , smothering the fire , and per gynt sat in the dark . then laughter and jibes came from every corner , and one voice said : \" now per gynt will be no better off than the dairy - maids in the hut at val ! \"",
+        "event_summaries": [
+          "The troll rushed off lamenting loudly after Peer Gynt poured soup on his nose.",
+          "The noise and tumult outside was caused by a wagon drawn by bears with a great troll loaded upon it.",
+          "Per Gynt was sitting in the dark because a pail of water was poured down through the chimney, smothering the fire."
+        ]
+      },
+      {
+        "story_section": "\" dear me ! \" thought she , \" can it be that my poor children that he devoured for his evening meal are still alive ? \" and she sent the little kid back to the house for a pair of shears , and needle , and thread . then she cut the wolf 's body open , and no sooner had she made one snip than out came the head of one of the kids , and then another snip , and then one after the other the six little kids all jumped out alive and well , for in his greediness the rogue had swallowed them down whole . how delightful this was ! so they comforted their dear mother and hopped about like tailors at a wedding . \" now fetch some good hard stones , \" said the mother , \" and we will fill his body with them , as he lies asleep . \"",
+        "event_summaries": [
+          "The mother goat used a pair of shears, a needle, and thread to cut open the wolf's body.",
+          "The mother goat commanded the little goats to fetch some stones to fill the wolf's body with them as he lies asleep."
+        ]
+      },
+      {
+        "story_section": "\" god be praised , now i am safe , for this is udrost ! \" said isaac to himself . directly ahead of him lay a field of barley , with ears so large and heavy that he had never seen their like . through the barley - field a narrow path led to a green turf - roofed cottage of clay , that rose above the field . on the roof of the cottage grazed a white goat with gilded horns , and an udder as large as that of the largest cow . before the door sat a little man clad in blue , puffing away at a little pipe . he had a beard so long and so large that it hung far down upon his breast .",
+        "event_summaries": [
+          "The narrow path led to a green turf-roofed cottage of clay that rose above the field.",
+          "A little man sat before the door.",
+          "The man was puffing away at a little pipe when Isaac saw him."
+        ]
+      },
+      {
+        "story_section": "\" faith , \" said finn , \" beautiful ; and how are you , oonagh -- and how did you sport your figure during my absence , my bilberry ? \" \" never a merrier -- as bouncing a grass widow as ever there was in sweet ' tyrone among the bushes . ' \" finn gave a short , good - humoured cough . he laughed most heartily to show her how much he was delighted that she made herself happy in his absence . \" an ' what brought you home so soon , finn ? \" said she . \" why , avourneen , \" said finn , putting in his answer in the proper way , \" never the thing but the purest of love and affection for yourself . sure , you know that 's truth , anyhow , oonagh . \" finn spent two or three happy days with oonagh , and felt himself very comfortable considering the dread he had of far rua . this , however , grew upon him so much that his wife could not but perceive something lay on his mind which he kept altogether to himself . let a woman alone in the meantime for ferreting or wheedling a secret out of her good man when she wishes . finn was a proof of this . \" it 's this far rua , \" said he , \" that 's troublin ' me . when the fellow gets angry and begins to stamp he 'll shake you a whole townland . it 's well known that he can stop a thunderbolt , for he always carries one about with him in the shape of a pancake to show to anyone that might misdoubt it . \" as he spoke he clapped his thumb in his mouth , as he always did when he wanted to prophesy or to know anything . \" he 's coming , \" said finn . \" i see him below at dungannon . \" \" an ' who is it , avick ? \" \" far rua , \" replied finn , \" and how to manage i do n't know . if i run away i am disgraced , and i know that sooner or later i must meet him , for my thumb tells me so . \"",
+        "event_summaries": [
+          "Finn gave a short good-humored cough and laughed heartily to show Oonagh how delighted he was that she made herself happy in his absence.",
+          "Finn always clapped his thumb in his mouth to prophesize or know anything.",
+          "Finn prophesied that Far Rua was at Dungannon.",
+          "Far Rua had been troubling Finn.",
+          "Finn said he would sooner or later meet Far Rua because his thumb told him so."
+        ]
+      },
+      {
+        "story_section": "\" are you not happy , since you need not strike ? \" said he . \" yes , indeed , i never was happier , \" said the man . \" that is how happy i was when you delivered me out of the block of ice , \" said the comrade . \" keep all you have : i need nothing , for i am a disembodied spirit . \" and he told him he was the wine - dealer who had lain in the block of ice before the church door , spat upon by all . he had become his comrade , and had aided him , because the youth had sacrificed all he had in order that he might have peace , and a burial in consecrated ground . he had been permitted to accompany him for the space of a year , and the time had run out when he had first parted with him . now he had once more been allowed to visit him ; yet on this occasion he would have to part for all time , for the bells of heaven were calling him .",
+        "event_summaries": [
+          "The comrade aided the youth because the youth had sacrificed all he had for peace and a burial in consecrated ground.",
+          "The comrade felt grateful towards the youth."
+        ]
+      },
+      {
+        "story_section": "\" have you all heard the rumor that every evening after sunset there comes an ogre to the gate of rashomon , and that he seizes all who pass by ? \" the second knight , watanabe , answered him , saying : \" do not talk such nonsense ! all the ogres were killed by our chief raiko at oeyama ! it can not be true , because even if any ogres did escape from that great killing they would not dare to show themselves in this city , for they know that our brave master would at once attack them if he knew that any of them were still alive ! \" \" then do you disbelieve what i say , and think that i am telling you a falsehood ? \" \" no , i do not think that you are telling a lie , \" said watanabe ; \" but you have heard some old woman 's story which is not worth believing . \" \" then the best plan is to prove what i say , by going there yourself and finding out yourself whether it is true or not , \" said hojo .",
+        "event_summaries": [
+          "Watanabe thought the Hojo was talking nonsense because all the ogres were killed by Raiko at Oeyama.",
+          "Hojo said Watanabe should go to the gate of Rashomon himself and find out whether it is true or not."
+        ]
+      },
+      {
+        "story_section": "\" do not do so on any account , \" said the cat . \" you will get your ring again . \" \" yes , if that were so , then ... \" said the youth . the cat ran away . suddenly a rat crossed her path . \" now i will pounce on you ! \" said the cat . \" o do not do that , \" said the rat , \" you shall have the ring again ! \" \" well , if that is so , then ... \" said the cat . when the folk at the castle had gone to bed , the rat crept around , and sniffed and spied out the room of the prince and princess ; and at last he found a little hole through which he crawled . then he heard the prince and princess talking to each other , and saw that the prince was wearing the ring on his finger . before she went , the princess said : \" good night . and see that you take good care of the ring , my dearest ! \" \" pooh ! no one will come in through the walls for the sake of a ring , \" said the prince , \" but if you think it is not safe enough on my hand , why , i can put it in my mouth . \"",
+        "event_summaries": [
+          "The rat went to the castle after crossing paths with the cat.",
+          "The rat was able to get into the rooms of the prince and princess by finding a little hole through which it crawled.",
+          "The princess had given the ring to the prince."
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "Extract the key events from the story section, ensuring each event is meaningful enough to inspire an educational question that encourages critical thinking and deeper comprehension for children. Extract as many significant events as possible while maintaining their quality and relevance",
+      "fields": [
+        {
+          "prefix": "Story section:",
+          "description": "The story section from which to extract events."
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Extracted events:",
+          "description": "List of key events from the story section."
+        }
+      ]
+    },
+    "extended_signature": {
+      "instructions": "Extract the key events from the story section, ensuring each event is meaningful enough to inspire an educational question that encourages critical thinking and deeper comprehension for children. Extract as many significant events as possible while maintaining their quality and relevance",
+      "fields": [
+        {
+          "prefix": "Story section:",
+          "description": "The story section from which to extract events."
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Extracted events:",
+          "description": "List of key events from the story section."
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.11.11",
+      "dspy": "2.5.43",
+      "cloudpickle": "3.1.1"
+    }
+  }
+}
