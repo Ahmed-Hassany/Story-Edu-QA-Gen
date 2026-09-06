@@ -2,9 +2,17 @@
 
 This project implements an AI-powered system that extracts key events from story sections and automatically generates educational question-answer pairs to enhance reading comprehension for children.
 
+## Publication
+
+This repository accompanies the published research paper describing the system and its evaluation:
+
+- **Published paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11652148)
+
+If you use this repository in academic work, please cite the published paper using the citation information provided by IEEE Xplore.
+
 ## Overview
 
-The system works in three main stages:
+The system works in four main stages:
 
 1. **Event Extraction**: Analyzes story sections to identify significant events
 2. **Question Type Classification**: Determines the most appropriate question type for each event
@@ -51,7 +59,7 @@ This project uses a modified version of the FairytaleQA dataset, which contains 
 }
 ```
 
-**Paper Link**: [Fantastic Questions and Where to Find Them: FairytaleQA](https://arxiv.org/abs/2203.13947)
+**Paper Link**: [Fantastic Questions and Where to Find Them: FairytaleQA](https://aclanthology.org/2022.acl-long.34/)
 
 ## Fine-tuned Models
 
@@ -101,16 +109,18 @@ jupyter notebook qa_gen_final.ipynb
 ## Project Structure
 
 ```
-Final/
+Story-Edu-QA-Gen/
 ├── dataset/
 │   ├── updated_train.csv
 │   ├── updated_valid.csv
 │   └── updated_test.csv
-├── qa_gen_final.py           # Main Python script
-├── qa_gen_final.ipynb        # Jupyter notebook version
-├── requirements.txt          # Project dependencies
+├── imgs/                    # README and architecture images
+├── results/                 # Generated/evaluation results
+├── qa_gen_final.py          # Main Python script
+├── qa_gen_final.ipynb       # Jupyter notebook version
+├── requirements.txt         # Project dependencies
 ├── extract_events_program_optimized.json  # Optimized model settings
-└── README.md                 # Project documentation
+└── README.md                # Project documentation
 ```
 
 ## Features
